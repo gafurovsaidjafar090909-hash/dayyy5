@@ -41,6 +41,10 @@ input
     height: 40px;
     margin-left: 20px;
 }
+.m1
+{
+    display: none;
+}
 
 
 
@@ -49,5 +53,13 @@ input
     .d1
     {
         display: none;
+    }
+    .m1
+    {
+        display: block;
+    }
+    .m2
+    {
+        
     }
 }
