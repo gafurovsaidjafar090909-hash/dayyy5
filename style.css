@@ -45,6 +45,89 @@ input
 {
     display: none;
 }
+.nb1
+p{
+     width: 30%;
+     font-size: 16px;
+     margin: auto;
+     color: #737373;
+}
+.boxu
+{
+     display: flex; 
+     justify-content: center;
+     gap: 30px;
+     margin-top: 50px;
+}
+.box1
+{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+  border: 3px solid #A9D6FF;
+  border-radius: 20px;
+}
+.bx1
+{
+    height: 100px;
+    width: 100%;
+    background-color: #8EC2F2;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.box2
+{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+  border: 3px solid #A9D6FF;
+  border-radius: 20px;
+}
+.bx2
+{
+    height: 100px;
+    width: 100%;
+    background-color: #8EC2F2;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.box3
+{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+  border: 3px solid #A9D6FF;
+  border-radius: 20px;
+}
+.bx3
+{
+    height: 100px;
+    width: 100%;
+    background-color: #8EC2F2;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.bx1
+{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    color: white;
+}
+.bx2
+{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    color: white;
+}
+.bx3
+{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    color: white;
+}
 
 
 
@@ -60,6 +143,37 @@ input
     }
     .m2
     {
-        
+        color: white;
+        margin-top: 100px;
+        height: 1000px;
+        width: 100%;
+       background-image: url(./img/telegram-cloud-photo-size-2-5283001111038073387-y.jpg);  
     }
+    .m3
+    {
+         margin-top: 50px;
+         margin-left: 70px;
+    color: black;
+    background-color: white;
+    height:550px;
+    width: 300px;
+    border-radius: 15px;
+    }
+    .nb1
+    h1{
+       width: 60%;
+       margin-left: 80px;
+    }
+    .nb1
+p{
+     width: 70%;
+     font-size: 16px;
+     margin: auto;
+     color: #737373;
+}
+.boxu
+{
+    flex-direction: column;
+    margin-left: 10px;
+}
 }
